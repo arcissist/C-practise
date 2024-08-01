@@ -20,3 +20,6 @@ dsecond.c:逆序输出二维数组的元素
 dthird.c：求二维数组中元素的最大值
 dfourth.c:将一个二维数组的进行从小到大排序，每行，每列从小到大排序
 dfifth.c：求二维数组的总和和平均值，每行每列的和还有平均值
+字符串
+sfirst.c：将一个字符数组初始化为“it's a computer”，输出时只显示scomputer
+sscend.c:从键盘上接收一个字符串，并计其中字符的个数
